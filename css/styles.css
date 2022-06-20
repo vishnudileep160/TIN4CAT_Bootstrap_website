@@ -1,1 +1,56 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar_nav{
+    list-style: none;
+}
+
+.navbar{
+    color: white;
+}
+
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+.title{
+    width: 80%;
+    padding-top: 25px;
+    transform: rotate(15deg);
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    width: 350px;
+}
+
+span{
+    color: white;
+    font-size: 40px;
+    padding: 1px;
+}
+
+.navbar-brand{
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 20px;
+    margin-left: 10px;
+}
+
+
+
+.nav-item{
+    font-size: 20px;
+    margin-left: 60px;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.fa-brands{
+    padding-right: 5px;
+}
 
